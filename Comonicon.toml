@@ -1,0 +1,8 @@
+name = "hk-geocode"
+
+[install]
+export_path=true
+completion=true
+quiet=false
+compile="min"
+optimize=0
