@@ -4,7 +4,7 @@ The library
 
 ```julia
 using HKGeocode
-geocode("Flower Market, Price Edwards")
+hk_geocode("Flower Market, Price Edwards")
 ```
 
 For the CLI 
